@@ -2,7 +2,7 @@
 
 I'm matoruru!
 
-Visit: [matoru.ru](https://matoru.ru)
+Visit my page: <a href="https://matoru.ru" target="_blank">matoru.ru</a>
 
 <!--
 **matoruru/matoruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
