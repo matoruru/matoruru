@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm matoruru!
-
-Visit my page: <a href="https://matoru.ru" target="_blank">matoru.ru</a>
+![matoruru's GitHub stats](https://github-readme-stats.vercel.app/api?username=matoruru&show_icons=true&theme=solarized-light)
 
 <!--
 **matoruru/matoruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
