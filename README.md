@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-![matoruru's GitHub stats](https://github-readme-stats.vercel.app/api?username=matoruru&show_icons=true&theme=solarized-light)
+matoruru is a cat 🐈
+
+### 📊 Metrics
+
+![](https://raw.githubusercontent.com/matoruru/matoruru/main/github-metrics.svg)
+
+![](https://raw.githubusercontent.com/matoruru/matoruru/main/metrics.plugin.isocalendar.fullyear.svg)
+
+![](https://raw.githubusercontent.com/matoruru/matoruru/main/metrics.plugin.languages.details.svg)
 
 <!--
 **matoruru/matoruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
