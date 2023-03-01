@@ -4,8 +4,6 @@ matoruru is a cat 🐈
 
 ### 📊 Metrics
 
-![](https://raw.githubusercontent.com/matoruru/matoruru/main/github-metrics.svg)
-
 ![](https://raw.githubusercontent.com/matoruru/matoruru/main/metrics.plugin.isocalendar.fullyear.svg)
 
 ![](https://raw.githubusercontent.com/matoruru/matoruru/main/metrics.plugin.languages.details.svg)
