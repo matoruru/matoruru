@@ -1,4 +1,4 @@
-### Hey 👋, I'm matoruru
+### Hi 👋, I'm matoruru
 
 [![Github](https://img.shields.io/github/followers/matoruru?label=Follow&style=social)](https://github.com/matoruru)
 
