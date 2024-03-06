@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋, I'm matoruru
+
+[![Github](https://img.shields.io/github/followers/matoruru?label=Follow&style=social)](https://github.com/matoruru)
 
 matoruru is a cat 🐈
 
