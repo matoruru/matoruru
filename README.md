@@ -10,8 +10,6 @@ matoruru is a cat 🐈
 
 ![](https://raw.githubusercontent.com/matoruru/matoruru/main/metrics.plugin.isocalendar.fullyear.svg)
 
-![](https://raw.githubusercontent.com/matoruru/matoruru/main/metrics.plugin.languages.details.svg)
-
 <!--
 **matoruru/matoruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
