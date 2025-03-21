@@ -8,7 +8,7 @@ on:
     - main
 jobs:
   github-metrics:
-    runs-on: raspi-runner-set-matoruru
+    runs-on: raspi-matoruru-profile
     steps:
     - name: Comment reactions
       uses: lowlighter/metrics@latest
